@@ -6,6 +6,8 @@
 
 ![banner](./img/header.png)
 
+# --@STCGoal 
+
 Generation of diagrams and flowcharts from text in a similar manner as markdown.
 
 Ever wanted to simplify documentation and avoid heavy tools like Visio when explaining your code?
